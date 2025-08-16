@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: tds-data-analyst
+    env: docker
+    plan: free
+    autoDeploy: true
+    region: oregon
+    dockerfilePath: ./Dockerfile
+    envVars:
+      - key: GOOGLE_API_KEY
+        sync: false
+      - key: GEMINI_API_1
+        sync: false
+      - key: LLM_TIMEOUT_SECONDS
+        value: "240"
