@@ -1,6 +1,6 @@
 # ⚡ Data Analyst Agent — Your AI-Powered Data Companion  
 > Smarter, faster, and more intuitive analysis of your datasets using **Generative AI + Python magic.**  
-> Repository: *himanshugpt09/Data_analyst_agent-2.0*
+> Repository: *[himanshugpt09/Data_analyst_agent-2.0](https://github.com/himanshugpt09/Data_analyst_agent-2.0/tree/main)*
 
 ---
 
